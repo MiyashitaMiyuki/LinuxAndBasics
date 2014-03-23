@@ -24,7 +24,7 @@ Vậy, các em hãy làm shell script với những điều kiện dưới đây
 
         ./runcprog.sh Tên tệp của chương trình của C
 4. Về lập trình C, các em hãy viết một chương trình mẫu nhé.   
-Nội dung là
+Nội dung là:
 
 Viết một chương trình hiển thị "Hello World!" đơn giản.
 
