@@ -11,13 +11,12 @@ ShellScript lần này các em sẽ làm script thay đổi nội dung trong t�
 書き換えのルールは、"Windows" という文字列を "Linux" に 書きかえる、という単純なものです。  
 Nguyên tắc thay đổi rất đơn giản, chữ "Windows" đổi thành chữ "Linux".     
 
-例えば、   
-abc.txt   
-というファイルが有って、内容が、  
+Ví dụ:  
+Có tệp abc.txt trong đó có nội dung là  
 
         I like Windows.
 
-だった場合、  
+thì các em đổi thành  
 
         I like Linux.
 
