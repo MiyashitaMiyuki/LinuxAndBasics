@@ -6,7 +6,8 @@ Những vấn đề về tệp
 
 ### Subject 03 
 
-今回作ってもらうShellScriptは、ディレクトリ data の下にあるすべてのファイルの中身を書き換えるscriptです。  
+今回作ってもらうShellScriptは、ディレクトリ data の下にあるすべてのファイルの中身を書き換えるscriptです。
+ShellScript lần này các em sẽ làm script thay đổi nội dung trong tất cả các tệp nằm dưới thư mục data.  
 書き換えのルールは、"Windows" という文字列を "Linux" に 書きかえる、という単純なものです。  
 
 
